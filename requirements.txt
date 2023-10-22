@@ -1,0 +1,4 @@
+pokebase
+pyfiglet
+requests
+Pillow
