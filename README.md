@@ -5,7 +5,7 @@ Pokemon Card Generator.
 
 Growing up, I had a pokemon card collection. The very good cards were hard to come by and it was near impossible to catch them all ! Now however .. :) I can finally complete my collection. (well sort of)
 
-[YouTube tutorial](https://youtu.be/7vTrzvf29ZI?si=c2cu77NYoDbCvqvn) | [Blog Post](https://medium.com/@sriramthinksaboutthings/pokemon-card-generator-711f9c242090)
+[YouTube tutorial](https://youtu.be/7vTrzvf29ZI?si=c2cu77NYoDbCvqvn) | [Blog Post](https://sriramswaminathan.com/technical/pokemoncard/)
 
 ---
 
